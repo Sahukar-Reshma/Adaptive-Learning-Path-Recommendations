@@ -43,8 +43,8 @@ The system recommends topics, exercises, and explanations tailored to each stude
 1. **Clone the repository**
 ```bash``
 
-git clone https://github.com/your-username/adaptive-learning-path.git
-cd adaptive-learning-path
+git clone (https://github.com/Sahukar-Reshma/Adaptive-Learning-Path-Recommendations)
+cd Adaptive-Learning-Path-Recommendations
 
 2. **Install dependencies**
 
@@ -87,5 +87,5 @@ adaptive-learning-path/
 ├─ README.md                # Project documentation
 └─ data/                    # Optional: student progress or topic data
 
-git clone https://github.com/your-username/adaptive-learning-path.git
-cd adaptive-learning-path
+git clone (https://github.com/Sahukar-Reshma/Adaptive-Learning-Path-Recommendations)
+cd Adaptive-Learning-Path-Recommendations
